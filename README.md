@@ -13,4 +13,4 @@ This project emphasizes clarity, trust, and a smooth visual experience inspired 
 - Figma
 
 ## 🔗 Design Reference
-https://chatgpt.com/c/6970a584-fe58-8322-9d24-60892546fa52
+https://www.figma.com/community/file/1595748674698968759
